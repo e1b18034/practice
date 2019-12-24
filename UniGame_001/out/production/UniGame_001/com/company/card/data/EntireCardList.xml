@@ -12,40 +12,40 @@
         <id>2</id>
         <name>card002</name>
         <cost>5</cost>
-        <subCost1>2</subCost1>
-        <subCost2>1</subCost2>
+        <subCost1>1</subCost1>
+        <subCost2>2</subCost2>
         <cardType>CardTypeCombie.HP</cardType>
     </card>
     <card>
         <id>3</id>
         <name>card003</name>
         <cost>5</cost>
-        <subCost1>2</subCost1>
-        <subCost2>1</subCost2>
+        <subCost1>1</subCost1>
+        <subCost2>3</subCost2>
         <cardType>CardTypeCombie.MP</cardType>
     </card>
     <card>
         <id>4</id>
         <name>card004</name>
         <cost>5</cost>
-        <subCost1>2</subCost1>
-        <subCost2>1</subCost2>
+        <subCost1>1</subCost1>
+        <subCost2>4</subCost2>
         <cardType>CardTypeCombie.APHP</cardType>
     </card>
     <card>
         <id>5</id>
         <name>card005</name>
         <cost>5</cost>
-        <subCost1>2</subCost1>
-        <subCost2>1</subCost2>
+        <subCost1>1</subCost1>
+        <subCost2>5</subCost2>
         <cardType>CardTypeCombie.APMP</cardType>
     </card>
     <card>
         <id>6</id>
         <name>card006</name>
         <cost>5</cost>
-        <subCost1>2</subCost1>
-        <subCost2>1</subCost2>
+        <subCost1>1</subCost1>
+        <subCost2>6</subCost2>
         <cardType>CardTypeCombie.MPHP</cardType>
     </card>
 </cards>
